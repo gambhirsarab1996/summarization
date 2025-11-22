@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# OS stuff
+.DS_Store
+
+# Streamlit local config
+.streamlit/
